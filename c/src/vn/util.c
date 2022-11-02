@@ -1,3 +1,8 @@
+/*
+ * seokgh add for fix build error
+ */
+#define _DEFAULT_SOURCE
+
 #include "vn/util.h"
 
 #include <string.h>
